@@ -1,0 +1,71 @@
+body{
+      
+      
+        overflow-x:hidden ;
+      
+    background-image: linear-gradient(to right, rgba(184, 105, 160, 0.747) , rgba(189, 107, 53, 0.664));
+}
+
+.p50{
+    border: 1px solid white;
+    text-align: center;
+    
+    
+}
+
+.h50{
+    border: 2px solid white;
+    height: auto;
+    background-color: rgba(52, 56, 56, 0.493);
+}
+
+.bg{
+    padding: 10px;
+    background-color: #d2c2eb;
+    border: 1px solid rgb(191, 180, 207);
+}
+#co{
+    positio;
+    top:0;
+    background-color: rgba(44, 45, 46, 0);
+}
+
+.hov{
+   
+    font-size: large;
+    font-weight: bolder;
+}
+
+.hov li:hover{
+    border-bottom: 3px solid white ;
+    color: white;
+    transition: 0.5s;
+    font-size: 26px!important;
+
+}
+
+.comali{
+    font-size: 56px;
+    font-weight: bolder;
+    float:right;  
+    position: relative;
+    left: 30px;
+}
+
+.music{
+     position: relative;
+     top: 0;
+     float: left;
+     left: 40%;
+    position:absolute;
+    z-index: -100;
+
+   overflow: hidden;
+    float: left;
+
+    
+}
+
+.overflow{
+    overflow-y:hidden;
+}
