@@ -46,9 +46,10 @@ body{
 
 .comali{
     font-size: 30px;
-    font-weight: bold;
+    font-weight: bolder;
+    float:right;  
     position: relative;
-    left: 0;!important
+    left: 30px;
 
     
 }
